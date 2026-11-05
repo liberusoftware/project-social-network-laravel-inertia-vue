@@ -1,6 +1,6 @@
-# Boilerplate integration boundary
+# Social Network integration boundary
 
-This Laravel · Inertia · Vue shell is a starting point for shared application foundation and module composition. The [product documentation](https://github.com/liberusoftware/documentation/blob/main/projects/boilerplate/README.md) and [source inventory](https://github.com/liberusoftware/documentation/blob/main/architecture/SOURCE-INVENTORY.md) establish actual contracts and source availability.
+This Laravel · Inertia · Vue shell is a starting point for profiles, feeds, communities and moderation. The [product documentation](https://github.com/liberusoftware/documentation/blob/main/projects/social-network/README.md) and [source inventory](https://github.com/liberusoftware/documentation/blob/main/architecture/SOURCE-INVENTORY.md) establish actual contracts and source availability.
 
 1. Select the adoption profile and canonical domain owners. Record reviewed module identities, actor/tenant rules, API versions and deployment topology.
 2. Install compatible released modules using Composer, npm or pub as appropriate. A module document or repository is not proof of a published release.
